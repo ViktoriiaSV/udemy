@@ -1,3 +1,4 @@
+/*
 let country = "Ukraine";
 let continent = "Europe";
 let population = 40;
@@ -12,3 +13,10 @@ console.log(typeof isIsland);
 console.log(typeof language);
 console.log(typeof population);
 console.log(typeof country);
+*/
+
+/*
+const language = "ukrainian";
+console.log(language);
+*/
+
