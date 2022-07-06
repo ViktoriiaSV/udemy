@@ -30,6 +30,9 @@
 // let averagePopulation = 33;
 // console.log(population < averagePopulation);
 // let populationPortugal = 11;
-// let description = 'Portugal is in Europe, and its ' + populationPortugal + 
-// ' million people speak portuguese';
+// // let description = 'Portugal is in Europe, and its ' + populationPortugal + 
+// // ' million people speak portuguese';
+// // console.log(description);
+
+// const description = `Portugal is in Europe, and its ${populationPortugal}  million people speak portuguese`;
 // console.log(description);
