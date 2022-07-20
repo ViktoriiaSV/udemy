@@ -36,3 +36,12 @@
 
 // const description = `Portugal is in Europe, and its ${populationPortugal}  million people speak portuguese`;
 // console.log(description);
+
+
+let populationOfUkraine = 40;
+let averagePopulation = 33 - populationOfUkraine;
+if (populationOfUkraine > 33) {
+    console.log(`Ukrainian's population is above average`)
+} else {
+    console.log(`Ukrainian's population is ${averagePopulation} million below average`)
+};
