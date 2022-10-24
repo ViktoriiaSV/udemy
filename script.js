@@ -203,3 +203,6 @@ console.log(century);
 // } else {
 //     console.log(`John's ${BMIJohn} is higher than Mark's BMI ${BMIMark}!`);
 // };
+
+const inputYear = '1991';
+console.log(inputYear + 18);
